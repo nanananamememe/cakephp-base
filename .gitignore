@@ -1,0 +1,5 @@
+/vendor/*
+/tmp/*
+/logs/*
+*.swp
+webroot/components
